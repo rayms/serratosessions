@@ -1,0 +1,4 @@
+name: "social-media-monitoring"
+output_dir: "."
+navbar:
+  title: "Social Media Monitoring for Elections"
